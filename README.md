@@ -7,13 +7,13 @@
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
-- 🔭 I’m in first year at **VIT Bhopal**
+- 🔭 I’m in third year at **VIT Bhopal**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JAVA**
 
 - 👯 I’m looking to collaborate on **Python Programming**
 
-- 🤝 I’m looking for help with **C++**
+- 🤝 I’m looking for help with **DSA**
 
 - 💬 Ask me about **Fashion ,Makeup**
 
