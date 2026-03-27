@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditi Tripathi</h1>
+<h1 align="center">Hi 👋, I'm Aditi </h1>
 <h3 align="center">A learning developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiittii&label=Profile%20views&color=0e75b6&style=flat" alt="adiittii" /> </p>
@@ -7,13 +7,11 @@
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
-- 🔭 I’m in third year at **VIT Bhopal**
+- 🔭 I’m doing Masters in Advanced Computer Science from **Loughborough University**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently brushing up my skills and doing competitive programming
 
-- 👯 I’m looking to collaborate on **Python Programming**
-
-- 🤝 I’m looking for help with **DSA**
+- 🤝 I’m looking for help with **Job Interviews**
 
 - 💬 Ask me about **Fashion ,Makeup**
 
