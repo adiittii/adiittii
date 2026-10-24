@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adiittii" alt="adiittii" /></a> </p>
 
-- 🔭 I’m doing Masters in Advanced Computer Science from **Loughborough University**
+- 🔭 Aspiring Software Developer recently graduated in Advanced Computer Science from **Loughborough University**
 
 - 🌱 I’m currently brushing up my skills and doing competitive programming
 
