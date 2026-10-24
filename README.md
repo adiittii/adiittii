@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Fashion ,Makeup**
 
-- 📫 How to reach me [My Linkedin](https://linkedin.com/in/aditi-tripathi-b0828721b)
+- 📫 How to reach me [My Linkedin](https://linkedin.com/in/aditi-tri)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
