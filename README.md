@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adiittii" alt="adiittii" /></a> </p>
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-
 - 🔭 I’m doing Masters in Advanced Computer Science from **Loughborough University**
 
 - 🌱 I’m currently brushing up my skills and doing competitive programming
